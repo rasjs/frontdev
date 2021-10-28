@@ -1,1 +1,1 @@
-window.alert("Seja bem-vindo!")
+//window.alert("Seja bem-vindo!")
