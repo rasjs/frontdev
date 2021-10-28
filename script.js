@@ -1,3 +1,1 @@
-function Teste () {
-	window.alert("Ok")
-}
+window.alert("Seja bem vindo!")
