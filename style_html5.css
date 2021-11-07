@@ -22,13 +22,13 @@ ul {
 }
 
 li {
-    border: solid 1px rgb(255, 124, 0);
+    border: solid 1px rgb(32, 128, 204);
     margin-bottom: 30px;
     border-radius: 15px;
     width: 200px;
     text-align: center;
     transition: 250ms all;
-    background-color: rgb(255, 124, 0);
+    background-color: rgb(32, 128, 204);
 }
 
 a {
@@ -43,7 +43,7 @@ li:nth-child(1) > a {
 }
 
 li:hover {
-    background-color: rgb(32, 128, 204);
+    background-color: rgb(255, 124, 0);
 }
 
 h1 {
