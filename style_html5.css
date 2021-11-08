@@ -22,13 +22,13 @@ ul {
 }
 
 li {
-    border: solid 1px #38C0C0;
+    border: solid 1px #48C0D8;
     margin-bottom: 30px;
     border-radius: 15px;
     width: 200px;
     text-align: center;
     transition: 250ms all;
-    background-color: #38C0C0;
+    background-color: #48C0D8;
 }
 
 a {
@@ -43,8 +43,8 @@ li:nth-child(1) > a {
 }
 
 li:hover {
-  border-color: #3088D0;  
-  background-color: #3088D0;
+  border-color: #909090;  
+  background-color: #909090;
 }
 
 h1 {
