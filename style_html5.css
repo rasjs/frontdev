@@ -22,13 +22,13 @@ ul {
 }
 
 li {
-    border: solid 1px #48C8D0;
+    border: solid 1px #3fb1c8;
     margin-bottom: 30px;
     border-radius: 15px;
     width: 200px;
     text-align: center;
     transition: 250ms all;
-    background-color: #48C8D0;
+    background-color: #3fb1c8;
 }
 
 a {
