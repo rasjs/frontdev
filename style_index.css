@@ -61,8 +61,8 @@ li:nth-child(3) > a {
 }
 
 li:hover {
-  border-color: #909090;
-  background-color: #909090;
+  border-color: #808080;
+  background-color: #808080;
 }
 
 p {
