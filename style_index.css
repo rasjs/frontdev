@@ -24,6 +24,15 @@ h1 {
   text-align: center;
 }
 
+#descricaoImagemFrontend {
+  margin-top: 0;
+  margin-bottom: 5px;
+}
+
+p {
+  font-size: 1em;
+}
+
 ul {
   padding-left: 0;
   list-style: none outside; 
@@ -63,10 +72,6 @@ li:nth-child(3) > a {
 li:hover {
   border-color: #808080;
   background-color: #808080;
-}
-
-p {
-  font-size: 1em;
 }
 
 #p_De {
