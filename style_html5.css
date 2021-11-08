@@ -43,8 +43,8 @@ li:nth-child(1) > a {
 }
 
 li:hover {
-  border-color: #999999;  
-  background-color: #999999;
+  border-color: #fff;  
+  background-color: #fff;
 }
 
 h1 {
