@@ -3,13 +3,14 @@
 body {
   background-image: linear-gradient(to right, rgb(255, 255, 255), rgb(76, 202, 190));
   font-family: Verdana, Helvetica, sans-serif;
+  text-align: justify;
 }
 
 nav li {
   margin-bottom: 0;
 }
 
-section {
+.conteudoTotal {
   background-color: rgb(255, 255, 255);
   padding: 5px;
   padding-right: 1.1em;
